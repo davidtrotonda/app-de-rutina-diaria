@@ -1,12 +1,12 @@
 {
-  "name": "app-de-rutina-diaria",
+  "name": "daily-routine-app",
   "version": "0.1.0",
-  "description": "App de rutina diaria built with React, Vite, Firebase, reminders, calendar tracking and PWA support.",
+  "description": "Open-source daily routine app built with React, Vite, Firebase, reminders, calendar tracking and PWA support.",
   "license": "Apache-2.0",
   "author": "David Trotonda",
   "repository": {
     "type": "git",
-    "url": "https://github.com/davidtrotonda/app-de-rutina-diaria.git"
+    "url": "https://github.com/davidtrotonda/daily-routine-app.git"
   },
   "type": "module",
   "scripts": {
