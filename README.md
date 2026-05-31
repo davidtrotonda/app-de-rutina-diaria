@@ -1,6 +1,6 @@
-# Rutina Diaria
+# App de Rutina Diaria
 
-Rutina Diaria is a mobile-first habit and routine tracker built with React, Vite and Firebase. It was designed as a focused daily companion: users can sign in, create routines, schedule reminders, track completions across a calendar and keep their habit history synced in the cloud.
+App de Rutina Diaria is a mobile-first habit and routine tracker built with React, Vite and Firebase. It was designed as a focused daily companion: users can sign in, create routines, schedule reminders, track completions across a calendar and keep their habit history synced in the cloud.
 
 The project is open source so other developers can study, reuse and adapt the implementation. If you use it publicly, please keep the attribution to David Trotonda from the `NOTICE` file.
 
